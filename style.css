@@ -373,8 +373,7 @@
      transform: rotate(90deg);
  }
  .contact-section a{
-     margin: 100px auto;
-    padding-left: 400px;
+     margin: 0 auto;
    font-size: 32px;
    font-weight: 900;
    letter-spacing: 1px;
